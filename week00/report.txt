@@ -1,0 +1,1 @@
+Pada tugas week 0 saya diajarkan bagaimana cara mendaftar akun github, membuat repository github, dan mengoperasikan PuTTy untuk login ke server badak.cs.ui.ac.id
