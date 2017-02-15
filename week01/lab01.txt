@@ -20,6 +20,4 @@ drwxr-xr-x  2 irfin.handiliastawan StafCS 4096 Feb 15 18:00 week09
 drwxr-xr-x  2 irfin.handiliastawan StafCS 4096 Feb 15 18:00 week10
 drwxr-xr-x  2 irfin.handiliastawan StafCS 4096 Feb 15 18:02 xtra
 /home/fasilkom/mahasiswa/i/irfin.handiliastawan/os171/week01
-Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
-Today is date +%d\ %b\ %y\ at\ %H:%M:%S
 Today is 15 Feb 2017 at 22:00:48
