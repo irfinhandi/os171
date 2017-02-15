@@ -1,1 +1,1 @@
-Tugas week01 OS menambah pengetahuan saya terkait hubungan antara Putty dengan Github 
+Tugas week01 OS menambah pengetahuan saya terkait hubungan antara PuTTy dengan Github 
