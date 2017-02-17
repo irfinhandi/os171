@@ -8,7 +8,7 @@ drwxr-xr-x  2 irfin.handiliastawan StafCS 4096 Feb 15 18:01 log
 -rw-r--r--  1 irfin.handiliastawan StafCS    7 Feb 15 17:46 README.md
 drwxr-xr-x  2 irfin.handiliastawan StafCS 4096 Feb 15 18:17 sandbox
 drwxr-xr-x  2 irfin.handiliastawan StafCS 4096 Feb 15 18:48 week00
-drwxr-xr-x  3 irfin.handiliastawan StafCS 4096 Feb 15 20:51 week01
+drwxr-xr-x  2 irfin.handiliastawan StafCS 4096 Feb 15 20:51 week01
 drwxr-xr-x  2 irfin.handiliastawan StafCS 4096 Feb 15 17:56 week02
 drwxr-xr-x  2 irfin.handiliastawan StafCS 4096 Feb 15 17:58 week03
 drwxr-xr-x  2 irfin.handiliastawan StafCS 4096 Feb 15 17:58 week04
