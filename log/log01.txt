@@ -17,5 +17,5 @@ w01-170216-10-LR-About: Memperhatikan demo server badak dan scripting, From: Lec
 w01-170216-10-LR-About: Memperhatikan demo server badak dan scripting, From: Lecturer
 w01-170216-11-LR-About: Memperhatikan demo server badak dan scripting, From: Lecturer
 w01-170216-19-DS-Discuss scripting
-w00-170209-19-DS-Discuss scripting
-w00-170209-20-DS-Discuss scripting
+w01-1702017-19-DS-Discuss scripting
+w01-1702017-20-DS-Discuss scripting
