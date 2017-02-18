@@ -1,7 +1,7 @@
 w01-170214-10-LR-About: Pengenalan server badak dan scripting, From: Lecturer
 w01-170214-10-LR-About: Pengenalan server badak dan scripting, From: Lecturer
 w01-170214-11-LR-About: Pengenalan server badak dan scripting, From: Lecturer
-w01-170214-19-LR-About: Pengenalan putty
+w01-170214-19-LR-About: Pengenalan putty, From:
 https://www.youtube.com/watch?v=eNtQCNdlfKQ
 w01-170215-17-PS-About: Mengerjakan task week01
 w01-170215-17-PS-About: Mengerjakan task week01
