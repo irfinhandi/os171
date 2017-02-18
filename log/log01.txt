@@ -1,1 +1,21 @@
-tes
+w01-170214-10-LR-About: Pengenalan server badak dan scripting, From: Lecturer
+w01-170214-10-LR-About: Pengenalan server badak dan scripting, From: Lecturer
+w01-170214-11-LR-About: Pengenalan server badak dan scripting, From: Lecturer
+w01-170214-19-LR-About: Pengenalan putty
+https://www.youtube.com/watch?v=eNtQCNdlfKQ
+w01-170215-17-PS-About: Mengerjakan Task week01
+w01-170215-17-PS-About: Mengerjakan Task week01
+w01-170215-18-PS-About: Mengerjakan Task week01
+w01-170215-18-PS-About: Mengerjakan Task week01
+w01-170215-19-PS-About: Mengerjakan Task week01
+w01-170215-19-PS-About: Mengerjakan Task week01
+w01-170215-20-PS-About: Mengerjakan Task week01
+w01-170215-20-PS-About: Mengerjakan Task week01
+w01-170215-21-PS-About: Mengerjakan Task week01
+w01-170215-21-PS-About: Mengerjakan Task week01
+w01-170216-10-LR-About: Memperhatikan demo server badak dan scripting, From: Lecturer
+w01-170216-10-LR-About: Memperhatikan demo server badak dan scripting, From: Lecturer
+w01-170216-10-LR-About: Memperhatikan demo server badak dan scripting, From: Lecturer
+w01-170216-19-DS-Discuss scripting
+w00-170209-19-DS-Discuss scripting
+w00-170209-20-DS-Discuss scripting
