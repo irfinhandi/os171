@@ -1,1 +1,24 @@
-oi
+w02-170221-10-LR-About: Pengenalan encryption and c programming, From: Lecturer
+w02-170221-10-LR-About: Pengenalan encryption and c programming, From: Lecturer
+w02-170221-11-LR-About: Pengenalan encryption and c programming, From: Lecturer
+w02-170221-20-LR-About: Pengenalan encryption and decryption, From:
+https://www.youtube.com/watch?v=BEb_AnPWPwY
+w02-170222-21-PS-About: Mengerjakan task week02
+w02-170222-21-PS-About: Mengerjakan task week02
+w02-170222-22-LR-About: Pengenalan c programming, From:
+https://www.youtube.com/watch?v=cn6wfl5kF24
+w02-170223-12-PS-About: Mengerjakan task week02
+w02-170223-12-PS-About: Mengerjakan task week02
+w02-170223-13-PS-About: Mengerjakan task week02
+w02-170223-13-PS-About: Mengerjakan task week02
+w02-170223-14-PS-About: Mengerjakan task week02
+w02-170223-14-PS-About: Mengerjakan task week02
+w02-170223-15-PS-About: Mengerjakan task week02
+w02-170223-15-PS-About: Mengerjakan task week02
+w02-170223-16-PS-About: Mengerjakan task week02
+w02-170223-16-PS-About: Mengerjakan task week02
+w02-170224-19-DS-Discuss encryption and c programming
+w02-170224-19-DS-Discuss encryption and c programming
+w02-170224-20-DS-Discuss encryption and c programming
+w02-170225-11-PS-About: Mengerjakan task week02
+w02-170225-12-PS-About: Mengerjakan task week02
