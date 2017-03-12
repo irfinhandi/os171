@@ -1,1 +1,24 @@
-tes
+w04-170307-10-LR-About: Pengenalan  Pointer & I/O, From: Lecturer
+w04-170307-10-LR-About: Pengenalan  Pointer & I/O, From: Lecturer
+w04-170307-11-LR-About: Pengenalan  Pointer & I/O, From: Lecturer
+w04-170307-20-LR-About: Introduction to pointers in C/C++, From:
+https://www.youtube.com/watch?v=h-HBipu_1P0
+w04-170307-20-LR-About:  Global and local variables, From:
+https://www.youtube.com/watch?v=sAj_Jrqrg5g
+w04-170308-18-PS-About: Mengerjakan task week04
+w04-170308-18-PS-About: Mengerjakan task week04
+w04-170309-10-LR-About: Pointer & I/O, From: Lecturer
+w04-170309-10-LR-About: Pointer & I/O, From: Lecturer
+w04-170309-11-LR-About: Pointer & I/O, From: Lecturer
+w04-170309-11-PS-About: Mengerjakan task week04
+w04-170309-20-PS-About: Mengerjakan task week04
+w04-170309-20-PS-About: Mengerjakan task week04
+w04-170309-21-PS-About: Mengerjakan task week04
+w04-170310-18-DS-Discuss Pointer & I/O
+w04-170310-19-DS-Discuss Pointer & I/O
+w04-170310-19-DS-Discuss Pointer & I/O
+w04-170310-20-PS-About: Mengerjakan task week04
+w04-170310-20-PS-About: Mengerjakan task week04
+w04-170310-21-PS-About: Mengerjakan task week04
+w04-170310-21-PS-About: Mengerjakan task week04
+w04-170310-22-PS-About: Mengerjakan task week03
