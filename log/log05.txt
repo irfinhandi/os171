@@ -8,15 +8,15 @@ https://www.youtube.com/watch?v=xAvC-MJ_Sz8
 w05-170316-10-LR-About: Memory, FIFO, Optimal Algoritma, From: Lecturer
 w05-170316-10-LR-About: Memory, FIFO, Optimal Algoritma, From: Lecturer
 w05-170316-11-LR-About: Memory, FIFO, Optimal Algoritma, From: Lecturer
-w05-170316-19-PS-About: Mengerjakan task week04
-w05-170316-19-PS-About: Mengerjakan task week04
+w05-170316-19-PS-About: Mengerjakan task week05
+w05-170316-19-PS-About: Mengerjakan task week05
 w05-170316-20-DS-Memory
 w05-170316-20-DS-Memory
 w05-170316-21-DS-Memory
 w05-170316-21-DS-Memory
-w05-170317-20-PS-About: Mengerjakan task week04
-w05-170317-20-PS-About: Mengerjakan task week04
-w05-170317-21-PS-About: Mengerjakan task week04
-w05-170317-21-PS-About: Mengerjakan task week04
-w05-170318-10-PS-About: Mengerjakan task week04
-w05-170318-10-PS-About: Mengerjakan task week04
+w05-170317-20-PS-About: Mengerjakan task week05
+w05-170317-20-PS-About: Mengerjakan task week05
+w05-170317-21-PS-About: Mengerjakan task week05
+w05-170317-21-PS-About: Mengerjakan task week05
+w05-170318-10-PS-About: Mengerjakan task week05
+w05-170318-10-PS-About: Mengerjakan task week05
