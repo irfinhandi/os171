@@ -14,10 +14,10 @@ w06-170413-21-DS-Process and Thread
 w06-170413-21-DS-Process and Thread
 w06-170413-22-LR-About: Process Synchronisation, From:
 https://www.youtube.com/watch?v=eKKc0d7kzww
-w06-170314-19-PS-About: Mengerjakan task week06
-w06-170314-20-PS-About: Mengerjakan task week06
-w06-170314-20-PS-About: Mengerjakan task week06
-w06-170315-10-PS-About: Mengerjakan task week06
-w06-170315-10-PS-About: Mengerjakan task week06
-w06-170315-11-PS-About: Mengerjakan task week06
-w06-170315-11-PS-About: Mengerjakan task week06
+w06-170414-19-PS-About: Mengerjakan task week06
+w06-170414-20-PS-About: Mengerjakan task week06
+w06-170414-20-PS-About: Mengerjakan task week06
+w06-170415-10-PS-About: Mengerjakan task week06
+w06-170415-10-PS-About: Mengerjakan task week06
+w06-170415-11-PS-About: Mengerjakan task week06
+w06-170415-11-PS-About: Mengerjakan task week06
