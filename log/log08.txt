@@ -11,7 +11,7 @@ w08-170427-20-DS-Socket
 w08-170427-20-DS-Socket
 w08-170427-21-DS-Socket
 w08-170427-21-DS-Socket
-w08-170427-21-LR-About: Socket Programming Basics, From:
+w08-170427-22-LR-About: Socket Programming Basics, From:
 https://www.youtube.com/watch?v=eVYsIolL2gE
 w08-170429-12-PS-About: Mengerjakan task week08
 w08-170429-12-PS-About: Mengerjakan task week08
