@@ -1,1 +1,20 @@
-oi
+w08-170425-10-LR-About: Scheduling and Socket, From: Lecturer
+w08-170425-10-LR-About: Scheduling and Socket, From: Lecturer
+w08-170425-11-LR-About: Scheduling and Socket, From: Lecturer
+w08-170425-19-LR-About: Scheduling in operating system, From:
+https://www.youtube.com/watch?v=1fwxHAf1E88
+w08-170427-14-PS-About: Mengerjakan task week08
+w08-170427-14-PS-About: Mengerjakan task week08
+w08-170427-15-PS-About: Mengerjakan task week08
+w08-170427-15-PS-About: Mengerjakan task week08
+w08-170427-20-DS-Socket
+w08-170427-20-DS-Socket
+w08-170427-21-DS-Socket
+w08-170427-21-DS-Socket
+w08-170427-21-LR-About: Socket Programming Basics, From:
+https://www.youtube.com/watch?v=eVYsIolL2gE
+w08-170429-12-PS-About: Mengerjakan task week08
+w08-170429-12-PS-About: Mengerjakan task week08
+w08-170429-19-PS-About: Mengerjakan task week08
+w08-170429-20-PS-About: Mengerjakan task week08
+w08-170429-20-PS-About: Mengerjakan task week08
